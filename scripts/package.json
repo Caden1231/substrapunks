@@ -21,7 +21,7 @@
     "api_v1": "npm:@polkadot/api@1.28.1",
     "api_v2": "npm:@polkadot/api@3.8.1",
     "bignumber.js": "^9.0.0",
-    "body-parser": "^1.18.3",
+    "body-parser": "^1.20.0",
     "delay": "^4.4.0",
     "express": "^4.17.1",
     "express-session": "^1.17.0",
